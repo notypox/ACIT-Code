@@ -12,5 +12,4 @@ gb_size= (num_entries * entry_size * 86400) /GB
 print(f"Per hour: {mb_size}MB")
 print(f"Per day: {gb_size}GB")
 
-print("Storage Estimates:")
-print(f"Per minute: {kb_size}KB")
+print("Storage Estimates")
